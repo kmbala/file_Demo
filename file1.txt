@@ -1,0 +1,2 @@
+Hi this is file 1 
+we are trying gto push this file from ou rlocal computer to a remote repository in gitHub
